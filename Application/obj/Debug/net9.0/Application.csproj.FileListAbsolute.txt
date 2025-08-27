@@ -15,3 +15,4 @@ C:\React\Complete guide to building an app with .Net Core and React\Reactivities
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Application\obj\Debug\net9.0\refint\Application.dll
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Application\obj\Debug\net9.0\Application.pdb
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Application\obj\Debug\net9.0\ref\Application.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Application\obj\Debug\net9.0\Application.sourcelink.json

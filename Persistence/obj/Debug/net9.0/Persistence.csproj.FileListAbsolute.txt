@@ -13,3 +13,4 @@ C:\React\Complete guide to building an app with .Net Core and React\Reactivities
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json

@@ -145,3 +145,4 @@ C:\React\Complete guide to building an app with .Net Core and React\Reactivities
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\React\Complete guide to building an app with .Net Core and React\Reactivities\API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\api\obj\Debug\net9.0\API.sourcelink.json
