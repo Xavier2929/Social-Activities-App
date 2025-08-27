@@ -1,0 +1,11 @@
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\bin\Debug\net9.0\Domain.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\bin\Debug\net9.0\Domain.pdb
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\obj\Debug\net9.0\Domain.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\obj\Debug\net9.0\Domain.pdb
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Domain\obj\Debug\net9.0\ref\Domain.dll

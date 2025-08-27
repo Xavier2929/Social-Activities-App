@@ -1,0 +1,15 @@
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\bin\Debug\net9.0\Persistence.deps.json
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\bin\Debug\net9.0\Persistence.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\bin\Debug\net9.0\Persistence.pdb
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\bin\Debug\net9.0\Domain.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\bin\Debug\net9.0\Domain.pdb
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
+C:\React\Complete guide to building an app with .Net Core and React\Reactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll
