@@ -1,6 +1,7 @@
 
 import { useEffect, useState } from 'react'
 import './App.css'
+import { List, ListItem, ListItemText, Typography } from '@mui/material';
 
 function  App() {
 
@@ -12,14 +13,16 @@ function  App() {
   },[])
 
   return (
-    <div>
-      <h3 className="app" style={{color:'red'}}>Welcome to reactivities!</h3>
-      <ul>
+    <>
+      <Typography variant='h3' >Welcome to reactivities!</Typography>
+      <List>
         {activities.map((activity)=>(
-          <li key={activity.id}>{activity.title}</li>
+          <ListItem key={activity.id}>
+            <ListItemText> {activity.title}</ListItemText> 
+            </ListItem>
         ))}
-      </ul>
-    </div>
+      </List>
+    </>
 
   )
 }
