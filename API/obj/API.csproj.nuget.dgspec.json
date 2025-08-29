@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\api\\API.csproj": {}
+    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\api\\API.csproj": {
+    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
