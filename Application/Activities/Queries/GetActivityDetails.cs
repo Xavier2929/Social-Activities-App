@@ -2,6 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using Domain;
 using MediatR;
+using Microsoft.Extensions.Logging;
 using Persistence;
 
 namespace Application.Activities.Queries;
@@ -18,6 +19,7 @@ public class GetActivityDetails
     {
         public async Task<Activity> Handle(Query request, CancellationToken cancellationToken)
         {
+
             var activity = await context.Activities.FindAsync([request.Id], cancellationToken);
             if (activity == null) throw new Exception("Activity not found.");
             return activity;

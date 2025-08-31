@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {}
+    "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
+    "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\obj\\",
+        "outputPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
