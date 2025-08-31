@@ -484,3 +484,10 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/reactivities.db
+API/bin/Debug/net9.0/API.pdb
+API/bin/Debug/net9.0/Application.pdb
+API/bin/Debug/net9.0/API.pdb
+API/bin/Debug/net9.0/Persistence.pdb
+API/bin/Debug/net9.0/Domain.pdb
+API/bin/Debug/net9.0/Application.pdb
+API/reactivities.db

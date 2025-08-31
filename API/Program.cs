@@ -1,5 +1,7 @@
+using System.Diagnostics;
+using Application.Activities.Queries;
+using Application.Core;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.VisualBasic;
 using Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +14,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddCors();
+builder.Services.AddMediatR(config =>
+ config.RegisterServicesFromAssemblyContaining<GetActivityList.Handler>());
+
+builder.Services.AddAutoMapper(config =>
+{
+    config.CreateMap<Activity, Activity>();
+});
 
 var app = builder.Build();
 
