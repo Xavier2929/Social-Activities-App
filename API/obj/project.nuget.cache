@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qYGgqioRsZk=",
+  "dgSpecHash": "6S8xTHEu7pE=",
   "success": true,
-  "projectFilePath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xavie\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\xavie\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\Application.csproj": {}
+    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\Application.csproj": {
+    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\obj\\",
+        "outputPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj"
               },
               "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Persistence\\Persistence.csproj": {
                 "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Persistence\\Persistence.csproj"
@@ -86,14 +86,14 @@
         }
       }
     },
-    "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -179,8 +179,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

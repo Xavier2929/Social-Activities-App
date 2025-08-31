@@ -1160,8 +1160,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\React\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
