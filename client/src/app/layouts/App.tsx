@@ -36,6 +36,10 @@ function  App() {
 
   }
 
+  const handleDelete=(id:string)=>{
+    setActivities(activities.filter(activity=>activity.id !== id))
+  }
+
 
 
   const handleSubmitForm= (activity:Activity)=>{
@@ -67,6 +71,7 @@ function  App() {
            openForm={handleOpenForm}
            closeForm={handleFormClose}
            submitForm={handleSubmitForm}
+           deleteActivity={handleDelete}
            />
       </Container>
     </Box>
