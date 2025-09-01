@@ -1,9 +1,10 @@
 
 import { useEffect, useState } from 'react'
 import './styles.css'
-import { Container, CssBaseline, List, ListItem, ListItemText } from '@mui/material';
+import { Container, CssBaseline} from '@mui/material';
 import axios from 'axios';
-import NavBar from './navbar';
+import NavBar from './NavBar';
+import ActivityDashboard from '../../features/activities/activityDashboard';
 
 function  App() {
 
@@ -18,13 +19,7 @@ function  App() {
     <CssBaseline/>
     <NavBar/>
     <Container maxWidth='xl' sx={{mt: 3}}>
-            <List>
-            {activities.map((activity)=>(
-              <ListItem key={activity.id}>
-                <ListItemText> {activity.title}</ListItemText> 
-                </ListItem>
-            ))}
-          </List>
+        <ActivityDashboard activities={activities}/>
     </Container>
 
     </>
