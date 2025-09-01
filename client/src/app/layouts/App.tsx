@@ -4,7 +4,7 @@ import './styles.css'
 import { Container, CssBaseline} from '@mui/material';
 import axios from 'axios';
 import NavBar from './NavBar';
-import ActivityDashboard from '../../features/activities/activityDashboard';
+import ActivityDashboard from '../../features/activities/dashboard/ActivityDashboard';
 
 function  App() {
 
