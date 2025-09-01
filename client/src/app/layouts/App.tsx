@@ -1,8 +1,9 @@
 
 import { useEffect, useState } from 'react'
 import './styles.css'
-import { List, ListItem, ListItemText, Typography } from '@mui/material';
+import { Container, CssBaseline, List, ListItem, ListItemText } from '@mui/material';
 import axios from 'axios';
+import NavBar from './navbar';
 
 function  App() {
 
@@ -14,14 +15,18 @@ function  App() {
 
   return (
     <>
-      <Typography variant='h3' >Welcome to reactivities!</Typography>
-      <List>
-        {activities.map((activity)=>(
-          <ListItem key={activity.id}>
-            <ListItemText> {activity.title}</ListItemText> 
-            </ListItem>
-        ))}
-      </List>
+    <CssBaseline/>
+    <NavBar/>
+    <Container maxWidth='xl' sx={{mt: 3}}>
+            <List>
+            {activities.map((activity)=>(
+              <ListItem key={activity.id}>
+                <ListItemText> {activity.title}</ListItemText> 
+                </ListItem>
+            ))}
+          </List>
+    </Container>
+
     </>
 
   )
